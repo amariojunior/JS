@@ -1,2 +1,2 @@
-# JS
+# JavaScript
  Estudo de JavaScript
